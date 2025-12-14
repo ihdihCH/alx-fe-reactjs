@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
+    "image": "/src/assets/spaghetti.jpg",
+    "ingredients": [
+      "Spaghetti",
+      "Eggs",
+      "Parmesan cheese",
+      "Bacon",
+      "Black pepper"
+    ],
+    "instructions": "Cook spaghetti. Fry bacon. Mix eggs and cheese. Combine all ingredients together."
+  },
+  {
+    "id": 2,
+    "title": "Chicken Tikka Masala",
+    "summary": "Grilled chicken cooked in a creamy tomato-based sauce.",
+    "image": "/src/assets/chicken-masala.jpg",
+    "ingredients": ["Chicken", "Tomato sauce", "Cream", "Garlic", "Spices"],
+    "instructions": "Grill chicken. Prepare sauce. Mix together and simmer."
+  },
+  {
+    "id": 3,
+    "title": "chocolote cake",
+    "summary": "Grilled chicken cooked in a creamy tomato-based sauce.",
+    "image": "/src/assets/chocolate-cake.jpg",
+    "ingredients": ["Chicken", "Tomato sauce", "Cream", "Garlic", "Spices"],
+    "instructions": "Grill chicken. Prepare sauce. Mix together and simmer."
+  },
+  {
+    "id": 4,
+    "title": "Caesar salad",
+    "summary": "Grilled chicken cooked in a creamy tomato-based sauce.",
+    "image": "/src/assets/caesar-salad.jpg",
+    "ingredients": ["Chicken", "Tomato sauce", "Cream", "Garlic", "Spices"],
+    "instructions": "Grill chicken. Prepare sauce. Mix together and simmer."
+  },
+  {
+    "id": 2,
+    "title": "Sushi",
+    "summary": "Grilled chicken cooked in a creamy tomato-based sauce.",
+    "image": "/src/assets/sushi.jpg",
+    "ingredients": ["Chicken", "Tomato sauce", "Cream", "Garlic", "Spices"],
+    "instructions": "Grill chicken. Prepare sauce. Mix together and simmer."
+  }
+]
